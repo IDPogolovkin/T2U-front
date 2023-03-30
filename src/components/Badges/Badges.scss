@@ -1,5 +1,6 @@
 .badges-wrapper {
   height: 137px;
+  width: 90%;
   background: linear-gradient(
     118.44deg,
     rgba(255, 255, 255, 0.51) 0%,
@@ -7,7 +8,7 @@
   );
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
-  padding: 13px 12px 13px 24px;
+  padding: 13px 36px 13px 6px;
   margin-top: 25px;
   margin-bottom: 20px;
 
@@ -42,7 +43,7 @@
 
   .badges-body {
     display: flex;
-    gap: 13px;
+    gap: 4px;
     align-items: center;
 
     .badge {
